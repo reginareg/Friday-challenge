@@ -1,0 +1,77 @@
+
+body {
+   
+}
+
+nav{
+   width: 100px;
+   height: 100%;
+   position: fixed;
+   top: 0;
+   left: 0;
+   background-color: #F7F6FF;
+   transition: max-width 0.4s ease-in 0s;
+   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   
+}
+.logo {
+    width: 68px;
+    height: 34px;
+    margin-top: 52px;
+    margin-right: 16px;
+    margin-left: 16px;
+    border-bottom: 2px solid #C4C4C4;
+    padding-bottom: 24.03px;
+}
+.icon-home{
+    margin-top: 47.97px;
+}
+.left-nav:hover {
+    width: 195px;
+    margin-left: 10px;
+}
+.icon-home {
+    height: 57px;
+    border-radius: 25px 0 0 25px;
+    margin-left: 11px;
+    padding: 0;
+    margin: 34px 0 34px 11px;
+    display: flex;
+    align-items: center;
+    background-color: #fff; 
+}
+.icon1 {
+    margin-top: 30px;
+}
+.icon2 {
+     margin-top: 32px;
+}
+.icon3 {
+     margin-top: 34px;
+}
+.icon * {
+    align-items: center;
+     
+}
+.text {
+    text-decoration: none;
+    color: black;
+    font-style: normal;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 15px;
+    height: 40px;
+}
+.img {
+    height: 25px;
+    margin-left: 37px;
+    width: 25px;
+}
+
+footer {
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    
+}
