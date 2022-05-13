@@ -16,9 +16,12 @@ Design: [Sign up](https://www.figma.com/file/uaVXnAQh9QxVsUD1RcQEbt/Friday-Chall
 
 ## Project features
 
--   Github pages (multi-page)
--   HTML form
--   Layout
+- Github pages (multi-page)
+- HTML form
+- Layout
+- CSS
+- Classes
+- Favicon
 
 ## Authors
 
